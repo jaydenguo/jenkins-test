@@ -5,6 +5,6 @@
     <!-- Target: prepare                               -->
     <!-- ============================================  -->
     <target name="prepare">
-        <echo msg="测试" />
+        <echo msg="测sssss算试" />
     </target>
 </project>
